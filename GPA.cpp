@@ -6,9 +6,9 @@ int main()
 {
     int m[20];
     float p[20];
-    int ts;             //ts=Total Subject
+    int ts;             
     float gpa;
-    float tp=0;        //tp=Total Point
+    float tp=0;       
     cout <<"ts:";
     cin >>ts;
     for (int i=0; i<ts;++i)
@@ -59,9 +59,9 @@ int main()
 
     int fm[20];
     float fp[20];
-    int fts;             //fts=Total Subject
+    int fts;             
     float gfpa;
-    float tfp=0;        //tfp=Total fpoint
+    float tfp=0;       
     cout <<"fts:";
     cin >>fts;
     for (int i=0; i<fts;++i)
